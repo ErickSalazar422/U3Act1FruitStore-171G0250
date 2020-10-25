@@ -1,0 +1,76 @@
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.deps.json
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.runtimeconfig.json
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.runtimeconfig.dev.json
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.dll
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.pdb
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.Views.dll
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.Views.pdb
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.csprojAssemblyReference.cache
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.AssemblyInfoInputs.cache
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.AssemblyInfo.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorAssemblyInfo.cache
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorAssemblyInfo.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.TagHelpers.input.cache
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.TagHelpers.output.cache
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorCoreGenerate.cache
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Agregar.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Editar.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Eliminar.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Categoria.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Ver.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Agregar.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Editar.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Eliminar.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Index.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorTargetAssemblyInfo.cache
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorTargetAssemblyInfo.cs
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.Views.pdb
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.dll
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.pdb
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.genruntimeconfig.cache
+D:\Dropbox\Dropbox\Programacion Web\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.csproj.CopyComplete
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.deps.json
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.runtimeconfig.json
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.runtimeconfig.dev.json
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.dll
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.pdb
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.Views.dll
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\bin\Debug\netcoreapp2.1\FruitStore.Views.pdb
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.AssemblyInfoInputs.cache
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.AssemblyInfo.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.csproj.CoreCompileInputs.cache
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorAssemblyInfo.cache
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorAssemblyInfo.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.TagHelpers.input.cache
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.TagHelpers.output.cache
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorCoreGenerate.cache
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Agregar.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Editar.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Eliminar.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Categoria.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Ver.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Agregar.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Editar.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Eliminar.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Productos\Index.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorTargetAssemblyInfo.cache
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.RazorTargetAssemblyInfo.cs
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.Views.pdb
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.dll
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.pdb
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.genruntimeconfig.cache
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.csproj.CopyComplete
+C:\Users\Carlitos Salazar\Desktop\7 semestre\padilla\Unidad3\FruitStore\FruitStore\obj\Debug\netcoreapp2.1\FruitStore.csprojAssemblyReference.cache
